@@ -1,0 +1,8 @@
+path: C:/Users/alihu/Documents/Computer Vision/YOLO/data
+train: images/train/ 
+val:  images/val/
+test: images/test/
+
+nc: 4
+
+names: ["trafficlight", "stop", "speedlimit",  "crosswalk"]
