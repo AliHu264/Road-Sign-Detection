@@ -1,4 +1,4 @@
-path: C:/Users/alihu/Documents/Computer Vision/YOLO/data
+path: C:/Users/alihu/Documents/Computer Vision/YOLO/data # change this to your dir
 train: images/train/ 
 val:  images/val/
 test: images/test/
